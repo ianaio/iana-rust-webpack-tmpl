@@ -1,6 +1,5 @@
 # iana-rust-webpack-tmpl
 IANA SYSTEMS - TEMPLATE - rust, webassembly, and webpack project.
-
 ### 
 
 <div align="center">
@@ -23,6 +22,9 @@ IANA SYSTEMS - TEMPLATE - rust, webassembly, and webpack project.
 </div>
 
 ## About
+Note.
+This template is designed for creating monorepo-style Web applications with
+Rust-generated WebAssembly and Webpack without publishing your wasm to NPM.
 
 [**📚 Read this template's tutorial! 📚**][template-docs]
 
@@ -53,4 +55,4 @@ to WebAssembly and hooking into a Webpack build pipeline.
 * `npm run build` -- Bundle the project (in production mode).
 
 * `npm test` -- Run the project's unit tests.
-
+Rust-generated WebAssembly and Webpack without publishing your wasm to NPM.
