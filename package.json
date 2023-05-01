@@ -1,0 +1,15 @@
+{
+  "author": "Jaroslaw Cichon <dev@iana.io>",
+  "name": "iana-rust-webpack-tpl",
+  "version": "0.1.0",
+  "repository": "https://github.com/ianaio/iana-rust-webpack-tpl",
+  "license": "(MIT OR Apache-2.0)",
+  "bin": {
+    "iana-rust-webpack": ".bin/iana-rust-webpack.js"
+  },
+  "dependencies": {
+    "cpr": "3.0.1",
+    "rimraf": "5.0.0"
+  }
+}
+
