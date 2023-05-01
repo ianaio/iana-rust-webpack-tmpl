@@ -1,2 +1,2 @@
 # iana-rust-webpack-tmpl
-IANA SYSTEMS - rust, webassembly, and webpack project
+IANA SYSTEMS - TEMPLATE - rust, webassembly, and webpack project.
