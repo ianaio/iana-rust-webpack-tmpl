@@ -55,7 +55,7 @@ let gitFolder = path.join(folderName, "git-clone");
 run("git", ["clone", "--no-tags", "--depth", "1", "https://github.com/ianaio/iana-rust-webpack-tpl.git", gitFolder]);
 
 // Copies the template folder
-cpr(path.join(gitFolder, "template"), folderName, {}, function (err, files) {
+cpr(path.join(gitFolder, "iana-tpl"), folderName, {}, function (err, files) {
   // Removes the git folder regardless of whether cpr succeeded or not
   rimraf.sync(gitFolder);
 
