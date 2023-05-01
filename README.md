@@ -5,9 +5,9 @@ IANA SYSTEMS - TEMPLATE - rust, webassembly, and webpack project.
 
 <div align="center">
 
-  <h1><code>rust-webpack-template</code></h1>
+  <h1><code>IANA SYSTEMS - TEMPLATE - rust, webassembly, and webpack project.</code></h1>
 
-  <strong>Kickstart your Rust, WebAssembly, and Webpack project!</strong>
+  <strong>Start with rust, webassembly and webpack project!</strong>
 
   <p>
     <a href="https://travis-ci.org/rustwasm/create-wasm-app"><img src="https://img.shields.io/travis/rustwasm/create-wasm-app.svg?style=flat-square" alt="Build Status" /></a>
