@@ -14,26 +14,23 @@ IANA SYSTEMS - TEMPLATE - rust, webassembly, and webpack project.
   </p>
 
   <h3>
-    <a href="https://rustwasm.github.io/docs/wasm-pack/tutorials/hybrid-applications-with-webpack/index.html">Tutorial</a>
+    <a href="https://docs.iana.io/wasm-pack/tutorials/hybrid-applications-with-webpack/index.html">Tutorial</a>
     <span> | </span>
-    <a href="https://discordapp.com/channels/442252698964721669/443151097398296587">Chat</a>
+    <a href="https://discordapp.com/soon">Chat</a>
   </h3>
 
-  <sub>Built with 🦀🕸 by <a href="https://rustwasm.github.io/">The Rust and WebAssembly Working Group</a></sub>
+  <sub>Built with 🦀🕸 by <a href="https://dev.iana.io/">IANA SYSTEMS The Rust and WebAssembly Working Group</a></sub>
 </div>
 
 ## About
-
-This template is designed for creating monorepo-style Web applications with
-Rust-generated WebAssembly and Webpack without publishing your wasm to NPM.
 
 [**📚 Read this template's tutorial! 📚**][template-docs]
 
 Be sure to check out [other `wasm-pack` tutorials online][tutorials] for other
 templates and usages of `wasm-pack`.
 
-[tutorials]: https://rustwasm.github.io/docs/wasm-pack/tutorials/index.html
-[template-docs]: https://rustwasm.github.io/docs/wasm-pack/tutorials/hybrid-applications-with-webpack/index.html
+[tutorials]: https://docs.iana.io/wasm-pack/tutorials/index.html
+[template-docs]: https://docs.iana.io/wasm-pack/tutorials/hybrid-applications-with-webpack/index.html
 
 ## 🚴 Using This Template
 
