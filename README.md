@@ -56,3 +56,7 @@ to WebAssembly and hooking into a Webpack build pipeline.
 
 * `npm test` -- Run the project's unit tests.
 Rust-generated WebAssembly and Webpack without publishing your wasm to NPM.
+
+# Invented from github repository:
+https://github.com/rustwasm/rust-webpack-template/tree/master
+
