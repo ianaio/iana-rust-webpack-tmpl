@@ -1,0 +1,36 @@
+A LIST OF SOURCE PAGE FOR RUST CRATE DEPENDECIES WHICH HAS BEEN USED IN OUR CARGO MANIFEST FILE, WHICH IS:
+Cargo.toml
+
+https://crates.io/crates/web-sys
+https://crates.io/crates/wasm-bindgen
+https://crates.io/crates/wee_alloc
+https://crates.io/crates/console_error_panic_hook
+https://crates.io/crates/wasm-bindgen-test
+https://crates.io/crates/futures
+https://crates.io/crates/js-sys
+https://crates.io/crates/wasm-bindgen-futures
+
+A LIST OF SOURCE PAGE FOR NPM DEPENDENCIES WHICH HAS BEEN USED IN OUR PACKAGE JSON FILE:
+package.json
+https://www.npmjs.com/package/rimraf
+https://www.npmjs.com/package/@wasm-tool/wasm-pack-plugin
+https://www.npmjs.com/package/copy-webpack-plugin
+https://www.npmjs.com/package/webpack
+https://www.npmjs.com/package/webpack-cli
+https://www.npmjs.com/package/webpack-dev-server
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+THIS FILE WILL HELP YOU WITH DEPENDENCIES:
+1. IT INFORM YOU IF YOU WISH TO AUTOMATICLY UPDATE AND TEST YOU APP WITH LATEST VERSIONS.
+
+IT CREATES TEMPLATE FOR YOU AND RUN YOUR APP AND INFORM YOU ALWAYS RIGHT ON TIME ABOUT POSSIBILITES OF NEW VERSIONS.
+
+1. CREATES UPDATES.
+2. SHOW YOU MERGED FILES IN GITHUB.
+3. A CLIENT CAN MAKE AN UPDATE WITH A SINGLE CLICK AND SEE IF ALL THE NECESSARY STUFF I.E. ERROR HANDLING AND ALL COLLISIONS, WARNINGS, INCOMPATIBLITIES AND AUTOMATIC SIMPLE SOLUTIONS WHICH IS SINGLE CLICK UPDATE DEPENDENCIES.
+
+================================================================
+
+GRAB DATA LIKE UNIX NOTIFICATION SYSTEM OR SOMETHING SIMILAR BECAUSE NPM AND CRATE PAGES HAS STABLE TABLES WITH VERSION NUMBER. WE GRAB FROM SOURCE PAGE ONLY WITH VERSION NUMBER AND CREATE DB FOR THIS ONLY. IT'S BASE SYSTEMS.
+
