@@ -2,7 +2,7 @@
 [package]
 name = "iana-rust-webpack-tpl"
 description = "IANA SYSTEMS - rust, webassembly and webpack project!"
-version = "0.1.0"
+version = "0.2.1"
 authors = ["You <you@example.com>"]
 categories = ["wasm"]
 readme = "README.md"
@@ -23,7 +23,7 @@ lto = true
 [dependencies]
 # The `wasm-bindgen` crate provides the bare minimum functionality needed
 # to interact with JavaScript.
-wasm-bindgen = "0.2.84"
+wasm-bindgen = "0.2.86"
 
 # `wee_alloc` is a tiny allocator for wasm that is only ~1K in code size
 # compared to the default allocator's ~10K. However, it is slower than the default
@@ -33,7 +33,7 @@ wee_alloc = { version = "0.4.5", optional = true }
 # The `web-sys` crate allows you to interact with the various browser APIs,
 # like the DOM.
 [dependencies.web-sys]
-version = "0.3.61"
+version = "0.3.63"
 features = ["console"]
 
 # The `console_error_panic_hook` crate provides better debugging of panics by
@@ -45,8 +45,8 @@ console_error_panic_hook = "0.1.7"
 
 # These crates are used for running unit tests.
 [dev-dependencies]
-wasm-bindgen-test = "0.3.34"
+wasm-bindgen-test = "0.3.36"
 futures = "0.3.28"
-js-sys = "0.3.61"
-wasm-bindgen-futures = "0.4.34"
+js-sys = "0.3.63"
+wasm-bindgen-futures = "0.4.36"
 
